@@ -59,16 +59,6 @@ The Power BI dashboard includes:
 
 ---
 
-## How to Run
-1. Clone this repository  
-2. Install required Python libraries  
-3. Run the Jupyter Notebook for EDA and preprocessing  
-4. Import the dataset into MySQL Server  
-5. Execute SQL queries  
-6. Open the Power BI dashboard file (`.pbix`)  
-
----
-
 ## Project Outcome
 This project demonstrates practical skills in:
 - Data Cleaning  
